@@ -1,0 +1,8 @@
+body{
+    height: 100%;
+    margin: 0;
+}
+@font-face {
+    font-family: 'Blasphemous'; /* Give your font a name */
+    src: url('../../../../../../src/assets/blasphemous-ii.ttf') format('truetype');
+  }
